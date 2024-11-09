@@ -1,2 +1,3 @@
 get the server data..
 processs the datagit
+create avatar
